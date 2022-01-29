@@ -13,8 +13,8 @@ Open terminal and run following commands
 >> cd laravel-installer
 ```
 ```
->> chmod 755 ./laravelInstaller.sh
+>> chmod 755 ./laravel.sh
 ```
 ```
->> ./laravelInstaller.sh -r
+>> ./laravel.sh -r
 ```
